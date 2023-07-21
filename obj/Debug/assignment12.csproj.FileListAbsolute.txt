@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\bin\Debug\assignment12.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\bin\Debug\assignment12.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\bin\Debug\assignment12.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\obj\Debug\assignment12.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\obj\Debug\assignment12.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\obj\Debug\assignment12.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\obj\Debug\assignment12.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment12\assignment12\obj\Debug\assignment12.pdb
